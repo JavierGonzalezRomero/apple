@@ -1,0 +1,54 @@
+.alturaweb{
+height: 4500px;
+}
+.main-principal{
+    width: 100%;
+}
+.main-foto1{
+    object-fit:100%;
+    width: 100%;
+}
+.main-foto2{
+    object-fit:100%;
+    width: 100%;
+    height:491px ;
+}
+.main-fotox2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main-fotox2box{
+    width: 48%;
+}
+.main-foto1-publi-box{
+    display: flex;
+    justify-content:center;
+}
+.main-foto1-publi{
+    object-fit:100%;
+    width: 90%;
+}
+.main-foto1-publi-box2{
+    display: flex;
+    justify-content:center;
+    height: 22px;
+    margin-bottom: 15px;
+    margin-top: 15px;  
+}
+.footer{
+background-color:#F5F5F7 ;
+display: flex; 
+justify-content: center;   
+}
+.footer-box_text{
+width: 65%;
+padding: 30px;
+border-bottom:solid ;
+border-bottom-color: #aaaab3;
+border-width: 1px;
+span{
+    color: #c7c7ce;
+}
+
+}
+
